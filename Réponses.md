@@ -48,3 +48,5 @@ La technique utilisée est le Whole Exom Sequencing (WES) c'est à dire le séqu
 Le séquençage de Sanger était la méthode de référence elle est utilisée pour vérifier qu'il n'y a pas eu d'erreur avec le WES.
 ### Q6 
 Pour l'individu 1, le variant se situe au niveaud du site d'épissage or il s'agit d'un site important pour la régulation du gène et de sa protéine ce qui est délétère. Pour l'individu 2, il y a un décalage du cadre de lecture entrainant une protéine tronquée ce qui est aussi délétère.
+### Q7
+Etant donné les 2 mutations vu pour les individus, c'est un bon candidat car les mutations sont délétères.
