@@ -16,9 +16,24 @@ La mutation se trouve sur le chromosome X. Comme c'est dominant, une seule mutat
 ### Q6
 Aucun garçon ne sera atteint de la maladie si le père est atteint car il transmet son chromosome Y (qui n'est pas porteur). Par contre, toutes ses filles seront atteintes. Si une mère est atteinte, elle a 50% de chances de transmettre son X muté que ce soit à un fils ou à une fille.
 ### Q7
+Les notations protéiques de ces variants sont NM_004992.3(MECP2_i001):p.(Gly232Ala) ou NP_004983.1
+et NM_004992.3(MECP2_i001):p.(Arg168*) ou NP_004983.1.
+### Q8
+Dans cette notation on a "p" pour protéique, "Gly232Ala" signifie quand dans la mutation la glycine en position 232 donne une alanine. Alors que "Arg168*" signifie par contre que la subsitution dans la séquence d'ADN a donné un codon stop dans la protéine et pas un acide aminé.
+### Q9
+p.(Gly232Ala) est une mutation faux sens car un acide aminé est substitué par un autre. Par contre p.(Arg168*) est une mutation non sens car la substitution au niveau des nucléotides donne un codon stop prématuré.
+### Q10
+
+### Q11
+
+### Q12
+
+### Q13
+
+### Q14
 
 ## Exercice 2
 ### Q1
 
 ### Q2
-T
+
