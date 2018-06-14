@@ -23,11 +23,11 @@ Dans cette notation on a "p" pour protéique, "Gly232Ala" signifie quand dans la
 ### Q9
 p.(Gly232Ala) est une mutation faux sens car un acide aminé est substitué par un autre mais sans décalage du cadre de lecture. Par contre p.(Arg168*) est une mutation non sens car la substitution au niveau des nucléotides donne un codon stop prématuré.
 ### Q10
-C'est le second variant qui est impliqué c.-168-?_26+?del 
+C'est le second variant qui est impliqué car il est noté sous la forme : c.502C>T avec un pourcentage de 7.66%.
 ### Q11
-
+La notation HGVS de ce variant est NC_000023.10:g.153296777G>A.
 ### Q12
-
+NC correspond à la notation génomique, le 23 correspond à la position de la variation sur le chromosome X, 10 est la version du gène, "g" signifique génomique car on se trouve sur l'ADN, 153296777 correspond à la position sur le chromosome et G>A signifie qu'il y a la substitution d'une guanine par une adénine.
 ### Q13
 
 ### Q14
