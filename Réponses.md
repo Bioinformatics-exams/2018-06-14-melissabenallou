@@ -16,7 +16,7 @@ La mutation se trouve sur le chromosome X. Comme c'est dominant, une seule mutat
 ### Q6
 Aucun garçon ne sera atteint de la maladie si le père est atteint car il transmet son chromosome Y (qui n'est pas porteur). Par contre, toutes ses filles seront atteintes. Si une mère est atteinte, elle a 50% de chances de transmettre son X muté que ce soit à un fils ou à une fille.
 ### Q7
-Les notations protéiques de ces variants sont NM_004992.3(MECP2_i001):p.(Gly232Ala) ou NP_004983.1
+Les notations protéiques de ceDDG2Ps variants sont NM_004992.3(MECP2_i001):p.(Gly232Ala) ou NP_004983.1
 et NM_004992.3(MECP2_i001):p.(Arg168*) ou NP_004983.1.
 ### Q8
 Dans cette notation on a "p" pour protéique, "Gly232Ala" signifie quand dans la mutation la glycine en position 232 donne une alanine. Alors que "Arg168*" signifie par contre que la subsitution dans la séquence d'ADN a donné un codon stop dans la protéine et pas un acide aminé.
@@ -34,6 +34,15 @@ NC correspond à la notation génomique, le 23 correspond à la position de la v
 
 ## Exercice 2
 ### Q1
-
+a) OMIM database pour "Online Mendelian Inheritance in Man" est une base de données qui catalogue les maladies génétiques et les relient aux gènes impliqués.
+b) DDG2P gene list est comme son nom l'indique, une liste de gènes mise en place par des cliniciens qui sont étudiés pour déchiffrer les troubles du comportement. 
 ### Q2
+
+### Q3
+a) NM_001190274.1 est la notation transcriptomique donc de l'ARN messager.
+b) HGVS ou Human Genome Variation Society est une nomenclature de notation sous la forme "NC".
+c) GRCh37/hg19 human genome assembly est une des versions du génome de référence qui a été séquencé. En l'occurence ikl s'agit de la 19 ème version du génome humain.
+### Q4
+La technique utilisée est le Whole Exom Sequencing (WES) c'est à dire le séquençage de tout l'exome c'est à dire uniuqmeent de la partie codante de l'ADN. Grâce à l'hybridation avec des séquences spécifiques, on sélectionne les exons puis on les purifie pour ne garder que les exons. On amplifie le produit par PCR. On séquence grace à des nucléotides terminateurs de chaine qui vont être associé à un fluorochrome différent en fonction de la base. Grâce à ces fragments de tailles différentes qu'on fait migrer en électrophorèse, cela permet de séquencer l'exome.
+### Q5 
 
