@@ -23,7 +23,7 @@ Dans cette notation on a "p" pour protéique, "Gly232Ala" signifie quand dans la
 ### Q9
 p.(Gly232Ala) est une mutation faux sens car un acide aminé est substitué par un autre mais sans décalage du cadre de lecture. Par contre p.(Arg168*) est une mutation non sens car la substitution au niveau des nucléotides donne un codon stop prématuré.
 ### Q10
-
+C'est le second variant qui est impliqué c.-168-?_26+?del 
 ### Q11
 
 ### Q12
