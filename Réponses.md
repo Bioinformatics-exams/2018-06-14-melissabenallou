@@ -45,4 +45,6 @@ c) GRCh37/hg19 human genome assembly est une des versions du génome de référe
 ### Q4
 La technique utilisée est le Whole Exom Sequencing (WES) c'est à dire le séquençage de tout l'exome c'est à dire uniuqmeent de la partie codante de l'ADN. Grâce à l'hybridation avec des séquences spécifiques, on sélectionne les exons puis on les purifie pour ne garder que les exons. On amplifie le produit par PCR. On séquence grace à des nucléotides terminateurs de chaine qui vont être associé à un fluorochrome différent en fonction de la base. Grâce à ces fragments de tailles différentes qu'on fait migrer en électrophorèse, cela permet de séquencer l'exome.
 ### Q5 
-
+Le séquençage de Sanger était la méthode de référence elle est utilisée pour vérifier qu'il n'y a pas eu d'erreur avec le WES.
+### Q6 
+Pour l'individu 1, le variant se situe au niveaud du site d'épissage or il s'agit d'un site important pour la régulation du gène et de sa protéine ce qui est délétère. Pour l'individu 2, il y a un décalage du cadre de lecture entrainant une protéine tronquée ce qui est aussi délétère.
