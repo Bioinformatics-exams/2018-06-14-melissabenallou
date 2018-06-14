@@ -21,7 +21,7 @@ et NM_004992.3(MECP2_i001):p.(Arg168*) ou NP_004983.1.
 ### Q8
 Dans cette notation on a "p" pour protéique, "Gly232Ala" signifie quand dans la mutation la glycine en position 232 donne une alanine. Alors que "Arg168*" signifie par contre que la subsitution dans la séquence d'ADN a donné un codon stop dans la protéine et pas un acide aminé.
 ### Q9
-p.(Gly232Ala) est une mutation faux sens car un acide aminé est substitué par un autre. Par contre p.(Arg168*) est une mutation non sens car la substitution au niveau des nucléotides donne un codon stop prématuré.
+p.(Gly232Ala) est une mutation faux sens car un acide aminé est substitué par un autre mais sans décalage du cadre de lecture. Par contre p.(Arg168*) est une mutation non sens car la substitution au niveau des nucléotides donne un codon stop prématuré.
 ### Q10
 
 ### Q11
